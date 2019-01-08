@@ -1,4 +1,4 @@
-module github.com/mmcdole/gofeed
+module github.com/xgolib/gofeed
 
 require (
 	github.com/PuerkitoBio/goquery v1.5.0

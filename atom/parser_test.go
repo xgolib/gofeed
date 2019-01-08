@@ -9,8 +9,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/mmcdole/gofeed/atom"
 	"github.com/stretchr/testify/assert"
+	"github.com/xgolib/gofeed/atom"
 )
 
 // Tests

@@ -9,8 +9,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/mmcdole/gofeed"
 	"github.com/stretchr/testify/assert"
+	"github.com/xgolib/gofeed"
 )
 
 func TestITunes_Extensions(t *testing.T) {

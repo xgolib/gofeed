@@ -9,8 +9,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/mmcdole/gofeed/rss"
 	"github.com/stretchr/testify/assert"
+	"github.com/xgolib/gofeed/rss"
 )
 
 func TestParser_Parse(t *testing.T) {

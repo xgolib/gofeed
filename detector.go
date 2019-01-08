@@ -4,8 +4,8 @@ import (
 	"io"
 	"strings"
 
-	"github.com/mmcdole/gofeed/internal/shared"
 	"github.com/mmcdole/goxpp"
+	"github.com/xgolib/gofeed/internal/shared"
 )
 
 // FeedType represents one of the possible feed
